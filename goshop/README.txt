@@ -1,0 +1,1 @@
+In this project we are just checking the results of git commands.  
